@@ -26,8 +26,6 @@ const countries = [
 
 // console.log(capitals)
 
-
-
 // Second Task
 
 const vowelsValue = {'a' : 1, 'e' : 2, 'i' : 3, 'o' : 4, 'u' : 5}
