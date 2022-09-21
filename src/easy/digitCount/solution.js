@@ -14,3 +14,4 @@ function numberOfDigits(number)
 const numOfDigits = num => num.toString().length
 
 console.log(numOfDigits(38))
+// 2
